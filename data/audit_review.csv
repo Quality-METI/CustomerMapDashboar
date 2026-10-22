@@ -1,0 +1,1367 @@
+﻿Code,Name,TerrID,CustomerTerr_Name,StructureTerr_Name,CustomerRegion,StructureRegion,CustomerBranch,StructureBranch,HasShape,HasStructure,TerritoryNameMismatch
+,ص ادم (فرحات ادم حسين),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,العربية,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . احمد سيد حسين سيد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . منال سناده حنين عبد الملاك,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية:د. ساهر سامح سمير,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . نورهان عبد المنعم صفيان,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . التيماء محمد عبدالله,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . اسراء عبدالله خليل,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . امانى انور ( امانى انور حميد ),9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . جوزيف وصفي الجديدة,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . مادونا عباس نخله حنس,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . احمد محمد عبد العال,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . احمد حسين وهبه عديل,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمد حسن محمد احمد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . اندرو باسم امين,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . مها اميل ثابت الجديدة,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . احمد حسين وهبه الجديدة,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . ايمان محمد حسين رضوان,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . احمد عبد الرازق,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . رشا صلاج ( رشا صلاح محمود احمد ),9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . ريم احمد سرور,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . ميرنا احمد صالح,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . كيرلس عبده حبيب,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . ميشيل ممدوح برتى واصف,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمد سعد عيد الجديدة,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . عبدالله محمد احمد سنوسى الجديدة,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . خالد عبد المنعم عبد الله,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمد عبد العزيز رفاعى,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . ماري اميل نجيب,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمد عطا سعد الله,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . مرفت سمير عزيز,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدليه سيد عبد الحفيظ,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص أم النور,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ماجد مكرم,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,بدرت وليم منصور,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,احلام عبد الشافى,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,طلعت صابر,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص هانى كميل حنا,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,محمود عبد الباسط,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص اسماء مجدى محمد عدلان,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص مها اميل ثابت,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص اسماء مجدى عدلان,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص احمد معاز(احمد محمد احمد),9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص نها عادل خضير,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص وائل نان سبيل,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص مصطفى يحيى صالح,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د. دعاء زين العابدين زارع حسن,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . مصطفى جابر,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . ايناس سامى عبيد الله,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص يونس (د محمد حمدي يونس),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص محمد محمود صابرحسن,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص منى فتحى عبد النعيم حسن,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص مستشفى الحياة,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص داليا سعيد سعد سعيد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص اسلام احمد محمد العواد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص حمدى منصور حسن أحمد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية د. سلمى خشبه,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص هدى صبر مفتاح فرج,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,الثورة,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,سوسن محمد ثروت,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/د.محمد حافظ خلف جاد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/د.احمد سعد رحيم (احمد سعدالدين حسن ),9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص فاطمه عبد الحميد سليمان رجب,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/د.دعاء عبد الله اسماعيل محمد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,احمد ماهر,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/د.عبد الرؤوف سيف الدين عمران مبارك,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/د.اسماء عبد الرحيم صالح محمد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص سلمى محمد أيمن محمد خشبه الجديده,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/د.أسماء سيد عبد السلام أحمد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/د.منال فوزى حبيب مصرى,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د.حنان يوسف أحمد مهران,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/د.مروه احمد على عبد الهادى,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/د.كريم هانى نعيم شكرالله,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ مكه المكرمه (د.عبد الناصر سيد أحمد ),9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د. عمر عبد العال ابو الحسن فراج,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د. أحمد صالح حسن محمد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د. رحاب رفعت محمد سيد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د. احمد ابراهيم طليب ( احمد ابراهيم حسين احمد ),9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د. مونيكا عصام سمير لوندى,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د. جورج وجيه اسحق سعد الله,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,مريم جرجس,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د. محمد محمود خضر عبد الله,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص/ د. مصطفي يحيي خيار الجديدة,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,رويدا محمد مصطفي,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمود محمد رشدى,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . روان محمد عيد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية د. ايمان فتحي,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,البدوى,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص صلاح الميري-2فرع,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,سمير,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,د سمية (د سمية كرم بولس),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,د مصطفي احمد خليل,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,الفاروق,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص عطا توفيق,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية جوزيت وليم,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,مايكل (د فتحي فريد),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص وائل لطيف فهيم اسكندر,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,المنتزه,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص نورما (ماري أرمياء شنودة),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص صبحي الجديدة تابع,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,المدينة,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,عطا صادق سيد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,السعاده,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص الازهر الشريف,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ثابت محمد على,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,سميراميس (سمير فوزي اسكندر),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية رافت,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,عصام,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية الحرية,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص سويفي (وائل محمد سويفي),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,الحمراء,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص وجيه,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص بيشوى صافى (صيدليات خليل),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,فارما,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,عاطف الجديدة (عاطف بشاي),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية زين العابدين (د. ريهام مهران),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص رياض (د محمد حسين محمود),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص وسام,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص البدر (د مصطفي),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,النجاح,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص اسامة,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص التوحيد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية د. ماجدة,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص مؤنس,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,الريفي (جمال محمد علي),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,الرحاب,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,العجايبي,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص مكة,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص الجلاء,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص النميس,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ميناس,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص محمد حسن,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,باسم فايز,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,سري,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص الاسراء (د محي الدين محمد علي),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص اسامة رشدي,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,السوسن,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,امال يحيى محمود,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص نجوي,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص مريم هلال,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,اسامه مختار الزنكلونى,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,أمير ليون لبيب,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية محمد فريد (د محمد مرغني الصلاحي),9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص محمد سيد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,احمد النشار,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,محمد عبد الحميد اسماعيل,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص . د. انطونيلا جابر شنوده,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,محمد ممدوح حسين,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,بركات عبد الرحيم,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمود عزت حلمى محمد الجديدة,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,عمرو علام,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,منير محسن,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية د. ايهاب سامى عبيدالله,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,وائل لطيف فهيم,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,احمد عبد الحفيظ احمد الجديدة,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,حاتم ابو رحمه,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص د ريهام مكرم فوزي,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية د. سامح مراد رويس,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,وسيم,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص هانى صلاح بديع,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية جورج وفيق سمعان,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,هانى نبيل,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,د مريان نبيل,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص بيتر ثروت لبيب,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية مازن,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص الجبالي,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص التعاونية,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص الامل,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص الحرمين,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص حسام النشوانى,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص مني محمدين,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص الوادى,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص حسن عبدالله,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص سلوى عبدالمؤمن أمين-2فرع,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص عرابي,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص رائد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص الصفا,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص مدحت,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص عبد الباسط,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص تامر,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص عماد عوض حامد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص أحمد محمود خليل,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص بيشوى بشرى سليم,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص تامرالجديدة,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,صيدلية:د.مارلى ماهر انور,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص. محمود سفينه قاسم,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمود عماد محمود محمد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص. ميرت اسامة صدقي سيف,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . اسراء محمد حجى,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . احمد محمد حسن,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . مصطفى عرفات ( مصطفى على محمد على ),9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمد مصطفى سيد ابراهيم,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . سحر عبد المولى ربيع,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . شارول هانئ شاكر اسعد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . مصطفى شعبان,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . مينا حسنى نبية,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . على محمد على عبد العال,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . بهاء فتحى مهنى,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . مصطفى محمود محمد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . احمد عبد الهادى احمد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص.د. زينب احمد عبد الرحمن,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . احمد علاء عيد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . داليا ميشيل برتى حنين,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص.د احمد منصور رمضان احمد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمد ابراهيم حسن سيد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . محمود عبدالمنعم احمد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص : د . ناهد وهيب عبدالنور,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص.د السيد احمد امام محمود عبدالحافظ النشار,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص.د محمود مصطفى احمد,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص.د احمد عبدالعزيز حمدون,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص.د محمد رمضان فاضل,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص.د محمد ايمن عاشور,9010,الوادى الجديد,الوادى الجديد,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص:د:عبدالرحمن محمد,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,ص.د. الفت كمال عباس عساف,9008,اسيوط شرق,اسيوط شرق,Upper Egypt,Upper Egypt,ASY,Assuit,False,True,False
+,الاصدقاء,9509,Supervisor Ban,Supervisor Ban,Scairo,Scairo,BAN,Bani Swief,False,True,False
+,ص:د. ميرنا حسين,,اكتوبر2,,Scairo,,GIZ,,False,False,False
+,ص.د عادل الدسوقي الجديده,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د ايمن عبدالله عبدالسلام,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص. ضحي رضا عبده,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . ايناس سيد جاد,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص. مصطفي نبيل بديوي الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . عمرو عبد الرحمن غيضان,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص. عايدة صالحين الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,نبيله جمال الجديده,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,دعاء,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,العجايبى,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,(ريم عادل)صيدلية فاتن عمر,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,محمد احمد الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية داليا مصطفى زغلول,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه دكتور اسامه(د.اسامه علي عبد الرازق,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,سارة عبد العزيز الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية د ابراهيم بسيوني,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,د مروة  ( مروة محمدعبدالله ),6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية فاطمة كامل الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية يحيى عمرو,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . على حمدى على الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,د عمرو عبدالرحمن غيضان,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,د محمداحمدالجاويش الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,د عصام عبدالله جمعه,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,احمد رجب العوضي الباز,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,د محمد عبد المعطى محمد,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,د مروى احمد الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص . ماجده احمد ( ورثة د. ماجده احمد محمد احمد ),6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية ايناس عبد الله,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه العناني (د.محمد عبد الهادي العناني,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,حسام المغربى,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية نجاح,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه الوحش (محمد حسن القرماني),6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه دكتوره دارين,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية هبه,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية عمرو جريش الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,امون,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,برايا,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه دكتوره بسمه(د.انور شحاته,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية خالد العوضى,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه دكتوره ياسمين سليمان,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,هبة حسني عبد السلام,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه د دينا حسين حمزه,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه جرين (اسلام القصاص),6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه دكتور مصطفى الأمير,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية اسماء والى,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية احمد اسماعيل العدوى,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,فهيمه احمد برايا,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه الهدي,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,مينا ابراهيم,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه الشبراوي(د.محمد الشبراوي,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,(السيد ابو السعود) صيدلية ابو السعود,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,شريف جاويش الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية الجمل,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الحياه,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الروضه,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . اسماء طلعت محمد,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . على عبد الرحيم على,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . احمد صابر,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية عصام سليمان,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,علاء الدين,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية الشفاء(سهير عبدالدايم احمد),6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه الشناوي,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدليه المصطفي,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,د محمدابراهيم صالح الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,تامر فرج,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,دنيا القصاص,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,محمد الغالي,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الرفاعى ( ورثة حسام توفيق محمد ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الشوربجى ( ورثة منير محمود عطية ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,على,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,وحيد ( احمدناجى وحيدالدين ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,النور ( عزمى كامل مسلم ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص . النصر ( د. ممدوح شاكر احمد بدوي ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ابن سينا ( ورثة محمود احمد حمودة ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الاسعاف الجديده ( د. احمد حسين حمدى ادم ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الجامعه ( محمد حسين اسماعيل ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الحياه ( عزمى كامل مسلم ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,المصرى ( د . المصرى محمد راشد ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,العريش الجديده ( صلاح حسن قاسم ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الاهرام ( ورثة ضياء الدين ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ام القرى ( د . وفاء على ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,القادسية ( سلام سليمان سلام ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الصفوة ( عبير اسماعيل عبد الكريم ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,الحمد ( اميرة محمود محمد ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . اسماء مرسى بغدادى,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . احمد عبدون الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . يحيى عبد الفتاح,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,شركة كوزمو ار أكس cosmo Rx,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,صيدلية:د. محمد شعبان ( محمد شعبان رمضان حمادة ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . اسماء محسن عوض,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص. محمد فكري ( محمد فكري احمد محمد سلامة ),6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص. محمد محمد علي,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . عبير عبد الله,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . حسين رافت,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . عمرو ابو ستيت الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . ايمان السيد عبد السلام,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . بسمه حسن كبير,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . احمد حسين على,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . ناهد سليمان,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,شركة مالتي تريد للتجارة والتوكيلات التجارية,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . كوثر حسن ابراهيم,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . فادي نصيف الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . ضحى رضا عبده الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . وداد بكر القصاص,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . محمد عماد,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . محمد حسين الجديدة,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . محمد عبد الرحمن,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . محمد حسن متولى الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د ولاء حسن الصادق,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د ولاء حسن الصادق الجديده,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . زينب حمدي,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . الشحات سليمان الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . احمد منير ماضى,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . البهى نور محمود,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . طارق سليم عبدالله,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . محمد سالم ( محمد كامل سالم ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . الاء محمد شحاتة,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . انهار عبد الحميد محمد,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د .حسام ابو القاسم,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . ايمن احمد العيادى الجديدة,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . ياسر عبد القادر,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د منى محمد عبدربه,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . نورهان محمد السيد,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . محمود عبد الفتاح نصر الجديدة,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . اية سليمان الجديدة,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د محمود احمد محمد يونس,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . احمد ادم,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . سمر عزمى,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . نهال جمال قويدر,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . منار مصطفى,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . سارة محمد احمد موسى,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . يوسف ابراهيم الاهتم,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . سدرة ( د . هبه الله ابراهيم ),6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . احمد عبد الحليم العناني,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . ريم عادل محمد,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . التوفيقية ( د . محمد صبرى توفيق ),6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . محمد امين الجديدة,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . محمد مصطفى الحلو,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د كريم جمال الشربيني,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . سارة رافت,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . احمد عبد المولى قنديل,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . مى عطية سالم,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . غانم اسليم ابو زينه,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د محمد علي محمود,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د. عمرو سليمان احمد,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,عيادات المنار التخصصية,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د عواطف ابراهيم محمد,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د محمود محمد عبداللطيف الجديده,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص : د . دينا عبدالكريم بنهاوى,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د احمد الطوخي,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د. محمد شعبان الجديدة,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د اسماء محمد محمد حسين,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,تراست لتوزيع وتوريد مستحضرات التجميل,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د ياسمين اسماعيل,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د جون لويس,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د:محمود صلاح الدين محمد,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د:ابراهيم بسيوني الجديده,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د:امنيه مصطفي,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د. احمد حامد,6006,العريش2,العريش2,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د. مروة شلبى الجديدة,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د:محمدعبد الحميد الجديده,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د:محمد عبد الحميد,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص:د:محمد عبد العال علي,6004,الاسماعيلية 4,الاسماعيلية 4,CANAL,CANAL,ISM,Ismailia,False,True,False
+,ص.د محمد احمد محمد طحيمر الجديده,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص : د . ابراهيم محمد موسى ابراهيم,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص. هاله مصطفي حسن كحيلة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص. محمد السيد عبد الفتاح السيد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص. رامي محمد السعيد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص : د . محمد السيد عبد المنعم,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمود جمال عبد العال,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,اميره جمال عبد الناصر الصادق,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص. محمد لطفي محمد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص . احمد عابدين ابراهيم,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,سوسن علام عبد الرحمن,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص : د . محمد عبد العاطى الصياد الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,احمد محمود عبد الحميد عامر,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الكورنيش ( اسلام عبده عبد الفتاح ),4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,علي حجاب,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,زكريا عبدالقادر الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,اسامة عطا الله,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,حسام الدين,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,احمد سعيد الخياط,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد عثمان عبدالفتاح,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ايهاب عبدالرحمن الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد اشرف كمال,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمود الهوارى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,احمد عبدالله اسماعيل الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,اكرم الحاج,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد عادل محمد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد فتحي,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد خيري فؤاد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,عزة موسي احمد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,مصطفى حماد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,شوقي الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,مصطفي ماهر عبداللطيف العماوي,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد ابو الخير,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد السيد سعد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد جوده احمد سالم الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,أية الله مصطفي سالم,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,تامر صلاح الدين امين الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,د محمود جبل,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,د ماهرعبدالرازق,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,د عبيد محمد راشد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,مروة فوزى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,هاله رضا النجار,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,امجد عبدالقادرعوادالجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,عاطف محمد الطوخي,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ابراهيم,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,اسنيت,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ام احمد الزهار,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الامين,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الحرمين,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,شوقي,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الاسعاف,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ناصر,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ايمن عبد الحفيظ,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,مروة عبد الفتاح,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,عبد الباقي محمود,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,دعاء فرحات عبدالله الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد طحيمر,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ايمان محمد عبدالسميع,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ايناس ايمن عبدالله,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد عثمان السيد المغاورى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,احمد الرفاعى عطوة مغاورى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,احمد الصابر الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,حازم عبدالحليم السيد الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,يحى ابوالفتوح محمد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ايمان جمال سيد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,حماده احمد عبدالعزيز,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,علاء الدين السيد عمر السيد الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,احمد سعيد عويضة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,المدينة المنورة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,كفر عطا الله,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,مروة حسين عفيفى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمود محمد مصطفي الشيخ,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمود مصلحى الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد صالح الشيخ,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الايمان الخيرية,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,جلال,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الدبيكى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الدعاء,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الرافه,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الروضه الشريفه,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,سليمان,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,عمر,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ادم ( حسن محمد عبد العزيز ادم ),4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الامل,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,مي سعد عبد العزيز هنداوي,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد حسني,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ماهر احمد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,خالد بن الوليد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,عادل,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محسن,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمدعبدالعليم,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص مسجد الفاروق,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,المنشيه,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,النيل,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,الهادى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,د شاديه,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,جرجس فتحى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,عبدالمحسن البدوى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص : د . اميرة السيد محمد محمد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,د سعيد محمد موسى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,د جمال   جمال محمدعبدالوهاب,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,د مجدى فتحى فكرى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,د محمدعبدالرحمن,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,مسعود,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,د مجدى منصور,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد شوقى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,اسامة فايد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,حاتم البدوي,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ادريس,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,وائل مصيلحى الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ابراهيم يحيى على الجديدة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص : د . احمد صبحى ابو العطا,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,محمد السيد احمد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ايهاب جمعه فهمى محمد شكر,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ريهام عز الدين عبد الحميد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص. أسامة محمد البكري,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص. احمد ممدوح عبد الحميد ابراهيم زين,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص.د احمد نشأت متولي شحاته,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص : د . احمد مصطفى رمزى عبد الحليم السيد,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص : د . امانى امين اسماعيل سرحان,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص.د مها حسين,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص.د محمد السيد فتيح,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص.د راشا مصطفى محمود غنيم,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص.د رباب محسن محروس,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص.د احمد طلعت عبدالرسول,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص.د رشا رضا ابراهيم اسماعيل,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص:د. بيشوى لطفى فريد وهبة,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص:د. هبه علاءالدين محمود ذكى,4015,بنها 4,بنها 4,Ncairo,Ncairo,MNF,Monofeya,False,True,False
+,ص. مصطفي احمد حمدون,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص محمد عمر جاد الكريم,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/د.ايناس على محمد ابراهيم,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص النور,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص الروماني,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص الحكمة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص السنجق,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص مارجرجس,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص طة الحديثة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص الزهراء,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص المحبة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص سامية,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص فاطمة ت ص الزهراء,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص محسن وسلي فايز جريس,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص ياسر عمر محمد محمد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص طارق أحمد مصطفى,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص شادية رزق الله محمد عبد الله,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص حاتم محمد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص مريم,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص عزت مينا,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص عيسي,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص نبيل,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص التحرير,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص عماد عبدالحكيم,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص محمد على,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص شادية الحديثة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص عمادالجديدة  نورالايمان,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص خالد الديرى  (خالد محمود),8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص أحمد الجديدة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص على حجاج سيد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص منى حماده عبد المطلب محمد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص منى محمد اسماعيل,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص محمود الشاذلى (محمود عبد العليم قاسم ),8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص أحمد صلاح على حسن,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص أحمد على أحمد ( ص عادل نبيل سابقا),8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص اشراق حماده سليمان دردير,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/د.أسعد أبو الوفا على محمد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/د.عبد الراضى ابو المكارم امين صادق,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص خالد عبد الرحيم عبيد حامد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/ د.احمد ابو العباس مغربى ابراهيم,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/ د. عبد التواب احمد محمود محمد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/ د. عبد الراضى أبو المكارم الجديدة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/ د. هانى أحمد حسن الجديده,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/ د. أحمد وافى محمود سالمان,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/د. محمد عبد العاطى حسين محمد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص حسناء الجديدة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/ د. احمد الحسين محمد محمد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/ د. ولاء قاسم عبد الله اسماعيل,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص نها محسن محمد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص اسامه شمعى,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص درياس,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص موسي,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص مينا,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص ايريني,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص الكرمة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص ايمان يحيي,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص ام النور,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص سوزان سمير,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص محمود عقارب,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص رامى يعقوب وهيب,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص مايكل فضل الله,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص صفاء عبدالحفيظ,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص مروه مصطفى سيد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص/د.نهى محمد محمد عبد المجيد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص بسام راشد عبد المنصف,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,يوليانه يوسف متي,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص : د . بدرى حربى الجديدة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص : د . احمد ( احمد على محمد عبد العال ),8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص : د . عبد الوهاب على الجديدة,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص : د . علاء الدين عبدالمقصود,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د بيتر باسم لطفي,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د سمر محمود حواس,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص : د . جهاد نعمانى محمود,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د اسامه يوسف تقى,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د عبدالله محمود,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د محمود حمدي,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د محمد سيد البدري الجديده,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د اسماء محمد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د هدير صادق,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د مروى مهران محمود نادي,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د محمود خالد الجديده,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د احمد رشدي,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د عبدالكريم محمود فكري,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د طارق محمد الجديده,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د الاء جلال,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د الزهراء عبدالحميد,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د مروه الجديده,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د طارق محد صديق,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص:د. على عبدالحفيظ مصطفى,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص:د:مؤمن رافت انور عثمان,8006,نجع حمادى 3,نجع حمادى 3,Upper Egypt,Upper Egypt,NGH,Nag Hammadi,False,True,False
+,ص.د احمد محمد علي علي الامام,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . احمد محمد نعمان,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية:د. قدرى الفقى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص محمود السيد,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص حسام الدين الجديدة,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. أحمد صلاح زكي محمد,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,احمد منتصر,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,أيمن حجازي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,شيماء ممدوح الجديدة,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص أحمد حامد المغازي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص محمود السيد الجديدة,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص/ الصواف 2 ( ايهاب السيد الصواف ),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,أيمن محمد السيد,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د مينا ناجي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية فرغلي و ابو سليمه,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه شادوفه (مصطفي احمد شادوفه),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه الأندلس,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,شرين عبدالرحمن,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,عمرو محسن عبد المجيد,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد ابراهيم عبده الجندي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,احمد عبد الرحمن الجديدة,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. احمد فريد عبده 2,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,سحر علي قهوه,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,احمد غنيم,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,هشام عنبر,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص مجدى  تابع ص الركابيه دمياط,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. شادي عبد اللطيف الجيار,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص العزيزه الجديده,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص محمد وهبه,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص محمد جمال السحراوى,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص  بكر بكر عبد الفتاح,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد احمد ميدان,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص نجوى ابراهيم هندام,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص هاني محمد سعدة الجديدة,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص إبتسام علي فرج,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص محمد فتحي,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد سالم,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص أكرم أحمد الزغبى,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص أحمد عادل العيسوى,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص خالد نصر سعده,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص دينا نبيل السحراوي,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد السيد حنيدق,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الوفاء,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الاندلس,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص وائل جبر,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص سامية مختار سعيد,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص . سعد ( د. سعد عبد العزيز عبده علي ),6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الزهراء تابع ص الصحه المنزله,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص عبده عبد الحميد,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص فتحى المندراوى,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص فايقه مسعدبحيرى,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د على امين الجديدة,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دكتور أحمد فريد 2,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . محمد الصديق الحسينى عميش,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . تامر محمد الشريف,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . مصطفى محمد مصطفى مخيمر,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . هدى السيد عبد الرازق,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية ابو الحمد,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص البسيونى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,فاطمة كيرة,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الزيدي - 1 فرع,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الوفاء,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص العياضي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,مجدي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الحكمه,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد جمال محمد رمضان,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص ابراهيم رسلان,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ايمان الشربيني,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص العيوطى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,اميرة ابراهيم البربري الجديدة,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص حمدي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص شريف,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,رنا يوسف,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص لبنى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د. ناريمان سعد نافع,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,الحلفاوى,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,بكه,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,غادة بهي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ناهد شحاته,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص منى حسني,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد صلاح السيد صالح,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص العلم والإيمان,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص ساره,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية الايمان (د. مصطفى اسماعيل الرخ),8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه هاني صابر,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د. بدوي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د.جهاد السعيد الجبالى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية السؤالي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د. اكرم خليل,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د. رشا مطر,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د. محمد سمير,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د.احمد الحفناوى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص محمد عبيد,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد نبيل محمود,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص مكه,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص هاني,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية اليرموك (د.محمد الرملى),8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه نشأت,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه أبو رية (د. امل رضا),8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,"صيدلية الشبرا,ي (د. محمود فكرى الشبراوى)",8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د. محمد دياب,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د. احمد  محمد الادهم,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه الصالح (د. محمد الصالح موسى),8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د ناجي فكرى عبد الملك),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه النور,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د.محمد فايز القصبى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د. رامي التابعي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الملاح تابع ص الملاح دمياط,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د.ابراهيم صبرى غنا,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص أجواء مكة,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الامانه,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,سمر رزق عبد العظيم,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص ياسر الجديده,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الحياه,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص مريم محمد,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,احمد علي فرج,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص أسامه الحسيني,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص إيمان صالح,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الحياه تابع ص نشأت,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص البدراوي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص سلامة,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص سهير معاطى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص الطبلاوي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,رشا,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,زياد مجدي - 1 فرع,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,السنوسي و الصيرفي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,هانى محمد حسين,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد احمد سماحه,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية محمود العفيفي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,( رحاب يوسف شرابى   ) صيدليه شرابى,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د عبده حسين,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية احسان ابو السعود,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,( وليد متولى صابر ) صيدليه د وليد,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه ريان,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دكتور إبراهيم الدسوقي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دكتور احمد ابراهيم,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د عمرو بدير,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه الجندي (د محمد ابراهيم الجندي),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه الحفني(د محمد الحفني,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دكتور( الصواف ) ايهاب السيد الصواف,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,جورج كامل - 1 فرع,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,عماد مصطفي حسن الزناتي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية عبد السلام ( احمد عبد السلام),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د حسام السيد الرفاعى,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د عمرو النجار,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د مروه شلبي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د احمد سامي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,( مجدى زكريا  )- صيدلية زكريا,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه الامام(د محمد عوض),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د احمد فرغلي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دكتور سليم (د ساره محمد),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه القزاز,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه الجمل ( د محمد عادل الجنل),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد فرج السنباطي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد عادل عبدالواحد الحفني وشريكه - 1 فرع,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,محمود صلاح الدين حفيلة,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,محمد محمود عبده عليوه - 1 فرع,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,خالد محمود الكحكي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,حازم محمد المهدي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه الكوثر( دكتور محمد المهدي ),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د حسن عبدالعزيز,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,(صيدلية فارس(د عماد زكريا فارس,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه د هانى حسين الجباس,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دكتور عبد الرحيم(د محمد عبد الفتاح عبد الرحيم),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه المهدي(د حازم محمد المهدي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه العلاوي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دكتور مجدي مسعد,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دكتور شادي المسيدي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د مرفت جودة,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,(   شادي امير الاكيابى)- صيدلية الاكيابى,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,مأمون ( محمد مأمون خليف ),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,احمد محمود الزيني,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ميرنا عبد الله بخيت,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دعاء,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه دكتور جورج ذكي عبدالستار,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية محمد سليمان,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية الليثى,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه المنارة,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,(  محمد فطين نويصر  )صيدلية د نويصر,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,(  ناديه تكلا اسكندر  )- صيدلية النيل,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه هاجر(د عثمان محمد عثمان),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,(  سعاد عبد الغنى النجدى )- صيدلية الجلاء,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ألاء احمد عامر,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,احمد السيد العربي,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدليه جمال (د جمال الفراش),6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية د حسنى,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . حنان سليمان العزبى,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . طه شمس الدين,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,صيدلية:د. امير وليم عبدالله موسى,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. محمد عبد الرحمن خضير,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. ابراهيم عدروس ( ابراهيم شعبان فضل عدروس ),8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. محمد وحيد محمود العوضي 2,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. محمد احمد عبد اللطيف,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. مها ابو العطا ( مها ابو العطا عبد المنعم ابو العطا ),8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. محمد محسوب عبده,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص. ولاء البساطي ( ولاء محمد احمد طه البساطي ),8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . ايمان الدسوقى و اميرة العزبى,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . مى محسن العزبى,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . سماح شبانة,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . احمد السالوس,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . محمد بدر سليمان,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . محمد بدر سليمان الجديدة,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . محمد سليمان سلمان,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . محمد مصطفى عبدالرؤوف,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . الهام قدري,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د. اسلام محمد نعمان,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د. مصطفى عزت,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د مصطفى فهمي سعد,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د اسلام عبدالحميد,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د محمد عبدالله نصر 2,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . محمد البسيونى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . احمد رمضان الحسانين,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د ريهام سعد,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د اسراء حسام هلال,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د احمد ناجح عبدالحميد,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د مينا مجدي يوسف,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . احمد سمير العزب,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د يارا احمد الجيار,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د نادر الحفناوي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د سمر الجوجري,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د احمد ابراهيم السيد,6504,المطريه,المطريه,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د: محمد اسامه احمد,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص : د . منى الحسينى,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د مروه الحفني,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د عادل السعيد,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د هبه القناوي الجديده,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص.د محمد بدوي,8505,دمياط 5,دمياط 5,CANAL,CANAL,POR,Port Said,False,True,False
+,ص:د. احمد السيد العربي و خالد السعيد عمر,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص:د:محمد السعيد المحضر 2,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,ص:د:فؤاد محمود محمد شراره,6503,بور سعيد 3,بور سعيد 3,CANAL,CANAL,POR,Port Said,False,True,False
+,امل عادل عفيفى,11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,محمد نجدي محمد الجديدة ( نجدى ),11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,عبير جمال,11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,حماده,11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,د.سمير,11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,احمد عبد اللطيف مديرها د خالد,11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,سامح,11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,الجمل,11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,ص:مسجد التوفيق ( سامى محمد لاشين ),11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,وحدة الجمعية الشرعية لرعاية الاطفال المبتسرين وحديث الولادة,11020,Supervisor Qal2,Supervisor Qal2,Ncairo,Ncairo,QAL,Qalyub,False,True,False
+,ص دار السلام ( حمدى عبد الحميد احمد ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الكرمة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص. مارينا جرجس زغلول,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص التوحيد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص زينب عبد الحافظ محمود,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص سلوى طايع على محمد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. علاء محمد حسن مدنى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. حسن حجاجى حسين محمد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص المحافظة الجديدة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص عبد الله,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص بهاء الدين الجديدة,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص احمد حسين,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص كريمان,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص المحطة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . الحرية (مايكل ممدوح كامل ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد صلاح على,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ايمن جابر,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص أميرة الجديدة (أميره لطفى عبد الحميد الضوى ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.أحمد السمان (د.احمد محمد عبدالوهاب السمان ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص  د.شريف كامل حمزه حسن,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . رمضان علام,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,فاطمه محمد كامل الربيعي,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د فؤاد جعفر,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . ابو الوفاء,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص عز,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص سانت ماريا,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الشبان المسلمين,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص المعلمين,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص النصر,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص جميل,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص السلام,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص عمرو,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص سامح,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص حسن,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد عبدالله خالد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ايمان داود,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص رامى سيفين أبوسيف,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد مغازى العادلى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص العادلى العادلى حسين,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محارب الفى حبيب عبد النور,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص أيمن (د/أيمن محمد حسين عمر),10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.أحمد محمد على محمود,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د. محارب الفى حبيب الجديدة,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.حمدى أحمد سيد على,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د.على عبد الباسط شحاته ابو بكر,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص نعمه الجديده ( د. نعمه زكرى فاخورى ميخائيل ),10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. أحمد طارق الدردير أمين,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الحكمة,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص النحاس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الامل,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص النيل,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الايمان,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص زمزم,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص اسعد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص فايز,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص اشرف ابراهيم,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الحياة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مروان الجديدة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص سيدي عمر,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص نور الاسلام,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص أحمد محمد أحمد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص حسين محمد النوبى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ينى مخالى ينى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد كمال مأمون,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مريم عبدالتواب,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. زينب محمود الحاوى سيد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ محمود يحيى (د. محمود محمد أحمد يحيى),10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. فاطمه يوسف المهندس التهامى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص النيل,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الحكمة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الشعب,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مدحت,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الحكمة,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ام النور,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الهادي,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص منصور ت ص الاندلس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص نانسى فايق,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص النور,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الازهر,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ام النور,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص النور المحمدي,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص أحمد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ناجى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص المدينة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الاندلس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الامانة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص النقيب,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص هشام هلال,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص صفوت,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص القرشى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد أحمد لطفى محمود,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص بهاءالدين أنور عبدالراضى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص منال الجديدة( منال عزت),10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد زين العابدين بدوى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص فاطمه محمد حسن,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص رأفت لمعى يسى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مدحت الكبرى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص نانسى جرجس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد الأحمر,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الصالح,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الحسن والحسين,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص زكريا ميشيل,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الامير  د جرجس عزيز,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص فينا ثروت,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص هانى الزين - 3 فروع,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ابن سينا  محمدسليم,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص وفاء على مدنى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص التوحيد  رقيه أحمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص النادى الجديده,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص أحمد الزين,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الزهراء فاطمه الزهراءرفاعى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الامير(امير نادر وهيب),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد عبد المنعم على,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ايات كمال الدين طايع,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد عبيد على أحمد - 2 فرع,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص على الجديدة (على أبو الحسن),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الطاحونة (د/شنوده ملاك ظريف),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ايناس الجديدة ( ايناس سعد على ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص منصف جميل جندى شحاته,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ياسمين حسام الدين عبد الحميد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.سهير حلمى سامى الجديدة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مسعود عباس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص دسوقى محمود بكرى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص امنية نبيل فتحى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص نيفين عدلى عبدالشهيد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص فاطمه سعيد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محسن الزين,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص أحمد يوسف العادلى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص علي,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص سيد عبد الحارس,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص احمد عبد الفتاح,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص سيد عبدالحارس الجديدة,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص عادل,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص المحبة,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص سان جورج,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص طارق,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الضوي,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مريم,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص كشك,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مجد الاسلام,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمد حسين أحمد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص محمود عبدالناصر مصطفى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الحسن محمد عبد العزيز حسن الجديدة,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص ديفيد عايد نظير غالى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص حفنى محمد عبد الحميد محمد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.حسين جمال عبد الرسول محمود,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص منال عزت رياض قديس,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.وئام سيف النصر عبد القادر صالح,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.ديفيد عايد نظير غالى - 2 فرع,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الهام,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص القرنة,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الهادي,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص الطود,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.جرجس جمال عبدالشهيد درياس,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مصطفى عطية (عمرو سليم عبد الراضى),10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص احمد سيد مختار عبد المطلب,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص اماني يوسف,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص احمد شحاتة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص حنان,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مستشفى سان مارى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص منار,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص مارسيل,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص رافت,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص جرجس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص كمال محمود,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص شينوتى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص صابر سيد الصغير,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.هاله موافى ابراهيم احمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د.محمود يحيى محمد رمضان,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/الحسن صبحى الجديدة (د.الحسن صبحى حسن احمد ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د.ايمان صلاح محمود احمد ابوزيد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د.داليا صبحى حسن احمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ حسين صبحى الجديدة (د.حسين صبحى حسن احمد ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. محمد عبيد على احمد فراج,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ أيمن عادل الجديدة (د.أيمن عادل لبيب حنين ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. مى أحمد رضوان مصطفى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ ملاك ميلاد الجديده (د. ملاك ميلاد جرس طانيوس ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. كيرلس سامى فكرى زكى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. زكريا ميشيل روفائيل عبد الملاك,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/د. كيرلس ايمن صلحى جرس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. اسراء محمود عبد الله محمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص/ د. فاطمةيوسف أبو المجد عبد اللطيف,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . احمد عبدالرحمن عبد العليم,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . محمود عبد العاطى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . اميرة محمد على,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . مرفت احمد عمر,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . سامح مانيوس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . احمد مراد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . ابراهيم ( ابراهيم مصطفى محمد على ),10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . محمد رضوان الجديدة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . اروى ابو المجد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . هاجر سيد حسين,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . كيرلس رومانى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . احمد هاشم,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . مصطفى محمود ( مصطفى محمود احمد الراوى ),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . على محمد بجاتو عباس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . لارا النادى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . جون جورج فيكتور,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د زينب فراج سيد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . سارة محمد مبارك,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . اية قدرى رمضان,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . مصطفى محمد احمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . اسراء حسين احمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د مينا اميل,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . مرفت الجديدة,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د. محمد سباعي الجديده,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . امل على ابو الحسن محمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د. مرفت احمد عمر الجديده,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . احمد ابراهيم,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . القاضى محمد القاضى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . احمد محمد حسان,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . شاديه وهيب اسكندر الجديدة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . عماد سمير,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د مؤمنه عبدالرحيم,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . على محمد الياس,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . عبد الله محمد حلمى الجديدة,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . محمد حسانين,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د ايمان منصور,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د ايفيت يسري,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د عبدالرحمن محمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د ساره السيد مصطفى,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص : د . خالد جمال محمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د محمد شبيب مسعود,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د مينا صادق حلمي,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د يوسف الجديده,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د احمد عبدالحكيم عبدالستار,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د دعاء ابوالحمد محمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د صلاح العادلي الصادق,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د محمد علي حسن,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د محمد خالد محمد,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د محمد رضوان,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د ايليا فيكتور عازر الجديده,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د عبدالحميد كمال الدين,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,الحبيب للتنمية و الاستثمار الزراعي,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د. ياسر محمود شعبان,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص.د محمد حسن,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:مروه عبد العزيز,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:محمد حسن,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:ساندرا ايمن اوليت,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:وليد منتصر,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:على محمد على,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:الحسينى السيد مدنى,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:ساره سيد,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:وليد محمد نصاري,10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:ابانوب ايليا جبره,10503,ارمنت,ارمنت,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص. رامي مجدي ( رامي مجدي ميخائيل ذكي ),12512,Supervisor Saf,Supervisor Saf,Scairo,Scairo,SAF,Saft,False,True,False
+,ص : د . احمد لطفى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,مينا زغلول,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,صيدلية:د. نادية عويس,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,محسن كمال,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . نجوى ( نجوى ابراهيم محمد عبد الله ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,وليد و عمرو,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص. احمد كركور ( احمد محمد محمد كركور ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ريتافتحي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . ساره سليمان,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص. محمد ابو الدهب,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,احمد الجزار الجديدة,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . حسناء ( حسناء عبد المهدى حمدان محمد ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,بولا رفعت,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,سحر راضي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,د.ناصف,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,التيسير,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,المروة الجديدة,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,رامي سعد,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,الانوار,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,د٠ عماد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د ايمان جلال,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د.ناتالي الاشقر,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,محمد نصار,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,حسني محمد حسني,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . احمد سيد ( احمد سيد ابراهيم عبد الرحمن ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ال حنان,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,عبد الحكيم القاضي,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,السعودي. د خالد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,راضى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,قباء,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,مكه المكرمه,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,نشوي,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,محمد شمس الدين,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,الحمد لله,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,محمد اسماعيل محمد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د٠ عادل خالد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,سيف الدين,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د٠ محمد مختار,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,مها بزان,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,حسين,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د٠ عادل عبدالله,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,الحياة   حياة يحيى ابراهيم,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,الفردوس,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ابراهيم البربري,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,مجدي دره,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,الكومى ( احمد صلاح الكومي ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,رضا الطنطاوي,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,عمر و محمد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د٠ عاطف توفيق,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,عزت,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,بدر,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,رافت,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ماجد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,مني علي,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ماجد نازيه,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,شيماء السيد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د٠ محمد عبد الرحمن,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ايهاب صبحي,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,حربي موسي,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,دينا صفوت,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,د خالد نجم ( ادارة د مادونا عباس ),1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,وليد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,اشرف محمد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,احمد الحبشي,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,خالد رياض,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,الزهراء,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,السلسبيل,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,صفوت,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,فاضل جورج,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,صامويل اميل لبيب حنا,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,محمود محيى الدين الحديثة,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص . عبير شعلان ( د. عبير شعلان عبد الخالق شعلان ),1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ابو المعاطى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د. محمد الحامولى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص . هاني فرج ( د. هاني فرج حنا يوسف ),1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ريموندا طلعت,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,سامي رفعت نجيب,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,د.يوسف محمد,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ايمان الحملاوي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,الدمرداش,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,اشرف,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,البحيري ماريليز,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,الجمهوريه ت فيكتوريا ق العيني,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,احمد عبد المجيد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,محمد شعيب,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,مينا,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,البير ابراهيم حبيب مقار,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,الزنوكي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,رامي قليني,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ناير نبيل,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص . مينا لوقا ( د. مينا عادل لوقا جرس ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د نبيل صادق,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ايهاب سامي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,هاني,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,الحديثة,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,النيل,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ريموندا فتحي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,د.محمد محروس,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,العسال,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,العشري,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,العلا,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,فارمسي وان,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,حنا,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,د.مينا فرانسيس,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,فاتن عبد الرحمن,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,محمد السيد ربيع,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,عزه فرماوي,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,محروس,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,احمد خلف,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,مي عبد العزيز,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,دنيا المصري,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,اسطفانوس,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,احمد زكى الجديدة,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,احمد السنباطي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,نرمين,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,امان الله على,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,وصفي جيد بسادة,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,وليد سعيد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,أمل عبد الخالق,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,احمد علام,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,عبدالحكيم القاضى الحديثة,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د.امانى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د.احمد عبد الرجمن,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,محمد خليل,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,حمدى السيد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,حجاج عبد الرحمن,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,محمد النبوى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د.محمد نصر,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,عبد المجيد مصباح,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ساره جاد,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,نجلاء على,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د.سامي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,الصفا,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,عبدالخالق,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,الحرمين,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,نيره,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,د.خلف,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,د احمد مختار,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د.عادل,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,د.عاطف فكري,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,احمدعبد العزيز,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,هشام,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,مودرن,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,الحصري,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,هيدي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,المدينه المنوره,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ريهام,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,السمان,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,هاني مصطفي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,د.نجلاء,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص. أنور ميخائيل فؤاد,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص. ابراهيم سليمان,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,صيدلية:د. مارى عادل فهمى,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . رشا ( رشا محمد السيد ),1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . امانى خضير,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص. هشام اسماعيل ( هشام سيد اسماعيل احمد ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . حاتم سيف,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . محمود ( ايمان حلمى مصطفى ),1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . فادية مرقص,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . عصام سامح,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . مصطفى بدر,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . عاطف سلمي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . وليد ( وليد محمد الدسوقى ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . محمد محجوب,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . احمد شومان,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . ايهاب ابو غنيمة,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . محمد راغب على,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . رحاب منصور,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . ولاء على,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . على النادى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . رامى هانى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . احمد حسن,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . مونيكا نبيل,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . مارينا ( مارينا عبد المسيح رفعت ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . نانسى رزق,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . عزة السيد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . شريف ( شريف مهدى امام ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . معاذ ( معاذ محمد عبد العال ),1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . عادل حسن,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . رانيا ناصر,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص.د ابراهيم المنيلاوي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . ايناس فاروق,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . مايكل داود,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . سامح محمد شلبى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص.د. هند السيد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . ايمان الغريب,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . انتصار الشافعى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . محمود لبيب,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . عبد الهادى محمد اليمانى,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص : د . عبد الحميد ( صلاح عبد الحميد حسن ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . داليا هانى,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص.د. محمد اشرف ( محمد اشرف ابراهيم ),1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . نرمين نادى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص.د ياسمين حسام هدايه,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص.د محمد فريد,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص:د. عبد الرحمن عصام,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص:د. صفا رجب,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص:د:احمد رجائي,1523,ارض الجولف,ارض الجولف,Ncairo,Ncairo,MSR,Masr EL-Gedida,False,True,False
+,ص:د. اسماء عاطف احمد,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص:د:بيشوى وجدى,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص:د. ابراهيم سليم,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص:د:مها,1522,العصاره,العصاره,Ncairo,Ncairo,SAW,Sawah,False,True,False
+,ص : د . صموئيل طلعت ادور الجديدة,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . احمد فواد امين,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,رشا عبد الحافظ,10011,SupervisorSOH10011,SupervisorSOH10011,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص جمال,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص الحكمة,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص المجمع,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/مستشفى السلامة (د.رشا فؤاد يوسف حبشى ),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/د. كيرلس ( كيرلس الفي فايز مسعود ),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/د. مرقس نعيم,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/د. هاني نظير,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/د. محمد محمود سلطان,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص. ريهام محمد,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . ياسر السيد محمد الجديدة,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . امل صلاح الدين,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . يارا 2 ( محمد عبد الحميد محمد سعيد ),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه النيل,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/د.محمود عبد الناصر زكى سيد,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/ د. ايمان عبد العال احمد عبد العال,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/ د. اسلام فتحى الجديدة,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/ د. منى عبد الناصر ابراهيم على,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/ د. محمد عربى عبد الخالق المدنى,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص/ د. الاء محمد محمود محمد,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص نبيلة (د/ايمن ادوارد طنيوس جرجس ),10011,SupervisorSOH10011,SupervisorSOH10011,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص عادل,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص عمرو محمد على,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه د. اسعد,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,(د جمال الخولى )- صيدلية الزهراء,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,(د حنفى محمود )- صيدلية د حنفى,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدلية محمود سليم,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,( د اراده فتاح كامل عبد الظاهر)- صيدلية اراده,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه د اسلام فتحي,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص مارمينا,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص زمزم ( د. سميرة عبدالحميد ),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص الحسيني,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه الزهراء,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه د عزه,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه د يحيى,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,( هند ناصر عبد الجابر)-صيدلية هند,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,( احمد خلف الله احمد هاشم)-صيدلية احمد خلف الله,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه د .نشوي عمر حسان (يحي زكريا ابو طالب),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه د سامح الكبري,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص عزت,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص شادي,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه احمد فراج,10011,SupervisorSOH10011,SupervisorSOH10011,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه اسلام فتحى,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه الشرق - ( د اديب تكلا),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدلية يارا,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدلية إيمان ( إيمان الضبع شراقة ),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,( حمدى كامل عساف)-صيدلية الهدى,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه د.دعاء(دعاء محمد رفعت),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه الفردوس (هاني فاروق ابراهيم),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه تبارك,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,(دعاء حمدى حسين )-صيدلية الهلال الاحمر,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,( ريمون جوزيف)-صيدلية د.ريمون,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدلية علا قدرى ابو حسين ( صيدليات إسلام فتحى ),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,(د رفعت حمدى احمد )- صيدلية الحكمة,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,( د جرجس فتحي حليم )- صيدلية د جرجس,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,( اعتماد خليفه محمود)-صيدلية عبد الرحمن,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص الفتح,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص ابو الفتوح,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدليه محمد ابو رأيه الجديده,10011,SupervisorSOH10011,SupervisorSOH10011,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,(اسلام فتحي )-امير ايب شنودة,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . وفاء ثابت,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . وليد محمد ( وليد محمد دسوقى ),10011,SupervisorSOH10011,SupervisorSOH10011,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص. رنده وجيه ( رنده وجيه خلف داود ),10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص. علاء احمد ( علاء احمد عبد الباسط عثمان ),10011,SupervisorSOH10011,SupervisorSOH10011,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . الحسين احمد عبد الغفار,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . محمود عبد الحى,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . رنده وجيه الجديدة,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص.د رحاب حسن,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . ياسمين ناجى,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص : د . رنا ابو الفتوح الجديدة,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص.د محمد ابراهيم,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص.د بيتر جاد الرب,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,ص:د:السيد على,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False
+,صيدلية:د. ايه محمود ( ايه محمود محمد اسماعيل ),5020,Supervisor ZAG5020,Supervisor ZAG5020,Delta,Delta,ZAG,Zagazig,False,True,False
+,محمد عفيفي,5020,Supervisor ZAG5020,Supervisor ZAG5020,Delta,Delta,ZAG,Zagazig,False,True,False
+,محمد عطية محمد صالح,5020,Supervisor ZAG5020,Supervisor ZAG5020,Delta,Delta,ZAG,Zagazig,False,True,False
+,ص اللواء,5020,Supervisor ZAG5020,Supervisor ZAG5020,Delta,Delta,ZAG,Zagazig,False,True,False
+,ص:د. بسمة السمان (د. بسمة محمد عبدالوهاب السمان),10501,قنا2,قنا2,Upper Egypt,Upper Egypt,QEN,QENA,False,True,False
+,ص:د:عصام احمد صابر,10015,أخميم - ساقلته,أخميم - ساقلته,Upper Egypt,Upper Egypt,SOH,Sohag,False,True,False

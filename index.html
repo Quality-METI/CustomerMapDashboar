@@ -62,6 +62,8 @@ th { color:var(--muted);position:sticky;top:0;background:var(--panel) }
 .pill { display:inline-block;padding:3px 7px;border-radius:20px;background:#253a4b;color:#d9e7f4;font-size:11px }
 .notice { padding:10px;border:1px solid #74582c;background:#302718;border-radius:9px;color:#f7d9a0;margin-bottom:12px }
 .leaflet-popup-content-wrapper,.leaflet-popup-tip { background:#121c2d;color:#e9f0fb }
+.customer-hover-tooltip { background:#121c2d;color:#e9f0fb;border:1px solid #59c3a5;border-radius:8px;box-shadow:0 3px 12px #0007;padding:7px 9px }
+.customer-hover-tooltip:before { border-top-color:#59c3a5 }
 .leaflet-control-layers { color:#172033;border:1px solid #b6c4d6;border-radius:10px;box-shadow:0 3px 14px #0005 }
 .leaflet-control-layers-expanded { padding:10px 12px }
 .map-key { background:rgba(11,18,32,.92);color:#edf4ff;padding:9px 11px;border:1px solid #53677f;border-radius:9px;line-height:1.8 }
@@ -474,45 +476,130 @@ function drawPoints() {
 map.on('moveend zoomend resize viewreset', schedulePointDraw);
 map.on('baselayerchange', schedulePointDraw);
 
-map.on('click', e => {
-  const p = map.latLngToLayerPoint(e.latlng).subtract(pointCanvasOrigin);
+// Find the nearest visible customer point/cluster using map-container pixels.
+// This matches the coordinates used by the Canvas drawing and avoids layer-origin drift.
+function findDrawnItem(containerPoint, maxDistance = 20) {
   let best = null;
-  let bestDistance = 225;
+  let bestDistanceSquared = maxDistance * maxDistance;
 
   for (const item of drawnPoints) {
-    const dx = item.x - p.x;
-    const dy = item.y - p.y;
-    const distance = dx * dx + dy * dy;
+    const dx = item.x - containerPoint.x;
+    const dy = item.y - containerPoint.y;
+    const distanceSquared = dx * dx + dy * dy;
 
-    if (distance < bestDistance) {
-      bestDistance = distance;
+    if (distanceSquared <= bestDistanceSquared) {
+      bestDistanceSquared = distanceSquared;
       best = item;
     }
   }
 
-  if (!best) return;
+  return best;
+}
 
-  if (best.cluster) {
-    const cl = best.cluster;
+function openCustomerPopup(c) {
+  if (!c) return;
 
-    if (cl.count === 1) {
+  const lat = Number(c.lat);
+  const lon = Number(c.lon);
+  if (!Number.isFinite(lat) || !Number.isFinite(lon)) return;
+
+  L.popup({ maxWidth: 320, autoPan: true })
+    .setLatLng([lat, lon])
+    .setContent(popup(c))
+    .openOn(map);
+}
+
+// Hover tooltip: show customer details for an individual point,
+// or the number of customers when the map is displaying a cluster.
+const customerHoverTooltip = L.tooltip({
+  direction: 'top',
+  sticky: true,
+  opacity: 0.97,
+  className: 'customer-hover-tooltip'
+});
+
+map.on('mousemove', e => {
+  const item = findDrawnItem(e.containerPoint, 18);
+
+  if (!item) {
+    if (map.hasLayer(customerHoverTooltip)) {
+      map.removeLayer(customerHoverTooltip);
+    }
+    map.getContainer().style.cursor = '';
+    return;
+  }
+
+  map.getContainer().style.cursor = 'pointer';
+
+  if (item.cluster) {
+    const cl = item.cluster;
+
+    if (cl.count === 1 && cl.first) {
       const c = cl.first;
-      L.popup({ maxWidth: 300 })
-        .setLatLng([Number(c.lat), Number(c.lon)])
-        .setContent(popup(c))
-        .openOn(map);
+      customerHoverTooltip
+        .setLatLng(e.latlng)
+        .setContent(
+          `<b>${safe(c.Name || 'Customer')}</b><br>` +
+          `Code: ${safe(c.Code)}<br>` +
+          `SAP: ${safe(c.SAP_Customer_Num)}`
+        );
     } else {
+      customerHoverTooltip
+        .setLatLng(e.latlng)
+        .setContent(`<b>${cl.count.toLocaleString()} customers</b><br>Click to zoom in`);
+    }
+  } else if (item.c) {
+    const c = item.c;
+    customerHoverTooltip
+      .setLatLng(e.latlng)
+      .setContent(
+        `<b>${safe(c.Name || 'Customer')}</b><br>` +
+        `Code: ${safe(c.Code)}<br>` +
+        `SAP: ${safe(c.SAP_Customer_Num)}<br>` +
+        `<span>Click for full details</span>`
+      );
+  } else {
+    if (map.hasLayer(customerHoverTooltip)) {
+      map.removeLayer(customerHoverTooltip);
+    }
+    return;
+  }
+
+  if (!map.hasLayer(customerHoverTooltip)) {
+    customerHoverTooltip.addTo(map);
+  }
+});
+
+map.on('mouseout', () => {
+  if (map.hasLayer(customerHoverTooltip)) {
+    map.removeLayer(customerHoverTooltip);
+  }
+  map.getContainer().style.cursor = '';
+});
+
+map.on('click', e => {
+  const item = findDrawnItem(e.containerPoint, 22);
+  if (!item) return;
+
+  // At low zoom, click a cluster to zoom in; a single-customer cluster
+  // opens that customer's details directly.
+  if (item.cluster) {
+    const cl = item.cluster;
+
+    if (cl.count === 1 && cl.first) {
+      openCustomerPopup(cl.first);
+    } else {
+      const nextZoom = Math.min(map.getZoom() + 2, 19);
       map.setView(
         [cl.latSum / cl.count, cl.lonSum / cl.count],
-        Math.min(map.getZoom() + 2, 19)
+        nextZoom
       );
     }
-  } else {
-    const c = best.c;
-    L.popup({ maxWidth: 300 })
-      .setLatLng([Number(c.lat), Number(c.lon)])
-      .setContent(popup(c))
-      .openOn(map);
+    return;
+  }
+
+  if (item.c) {
+    openCustomerPopup(item.c);
   }
 });
 

@@ -279,8 +279,12 @@ function popup(c) {
     Territory: ${safe(c.Terr_Name)}<br>
     Region: ${safe(region(c))}<br>
     Branch: ${safe(branch(c))}<br>
-    Rep: ${safe(c.Sales_Name)}<br>
-    Rep ID: ${safe(c.Sales_ID)}<br>
+    <hr style="border:0;border-top:1px solid #d0d7de;margin:7px 0">
+    <b>Sales Structure</b><br>
+    Assigned Rep: ${safe(c.Sales_Name || 'Not assigned')}<br>
+    Rep ID: ${safe(c.Sales_ID || 'N/A')}<br>
+    Structure Region: ${safe(c.StructureRegion || 'N/A')}<br>
+    Structure Branch: ${safe(c.StructureBranch || 'N/A')}<br>
     TeleList: ${safe(c.TeleList)}<br>
     Target: ${safe(c.Target)}<br>
     Sector: ${safe(c.TerrSectorName)}<br>
@@ -541,7 +545,8 @@ map.on('mousemove', e => {
         .setContent(
           `<b>${safe(c.Name || 'Customer')}</b><br>` +
           `Code: ${safe(c.Code)}<br>` +
-          `SAP: ${safe(c.SAP_Customer_Num)}`
+          `SAP: ${safe(c.SAP_Customer_Num)}<br>` +
+          `Rep: ${safe(c.Sales_Name || 'Not assigned')}`
         );
     } else {
       customerHoverTooltip
@@ -556,6 +561,8 @@ map.on('mousemove', e => {
         `<b>${safe(c.Name || 'Customer')}</b><br>` +
         `Code: ${safe(c.Code)}<br>` +
         `SAP: ${safe(c.SAP_Customer_Num)}<br>` +
+        `Rep: ${safe(c.Sales_Name || 'Not assigned')}<br>` +
+        `Rep ID: ${safe(c.Sales_ID || 'N/A')}<br>` +
         `<span>Click for full details</span>`
       );
   } else {

@@ -128,7 +128,7 @@ th { color:var(--muted);position:sticky;top:0;background:var(--panel) }
 <main class="main">
   <div class="notice">
     Territory colors and boundaries are based on the shape file.
-    Region and Branch use the sales structure when matched.
+    Region, Branch and Employee_ID use data/sales_structure.json when it is available and matched by TerrID (and Sales_ID when present).
   </div>
   <section class="stats">
     <div class="stat">Customers<strong id="nCust">—</strong></div>
@@ -269,7 +269,9 @@ function fill(id, vals) {
 
 function region(c) { return c.StructureRegion || c.CustomerRegion || ''; }
 function branch(c) { return c.StructureBranch || c.CustomerBranch || ''; }
-function supervisor(c) { return c.SV || c.Supervisor_Name || c.SupervisorName || c.Supervisor || c.Sales_Supervisor || ''; }
+function supervisor(c) { return c.SV_Name || c.SV || c.Supervisor_Name || c.SupervisorName || c.Supervisor || c.Sales_Supervisor || ''; }
+function repName(c) { return c.Sales_Name || c.SalesName || ''; }
+function repUserId(c) { return c.Employee_ID || ''; }
 
 // Sales structure headers use the exact names from Structure2026.xlsx.
 // Aliases allow this dashboard's current customer export to supply matching values.
@@ -412,7 +414,7 @@ function filtered() {
     (!r || region(c) === r) &&
     (!b || branch(c) === b) &&
     (!t || String(c.TerrID) === t) &&
-    (!rep || c.Sales_Name === rep) &&
+    (!rep || repName(c) === rep) &&
     (!sup || supervisor(c) === sup) &&
     (!tl || String(c.TeleList) === tl) &&
     (!rt || c.RouteTypeName === rt) &&
@@ -739,6 +741,23 @@ function render() {
   ).join('');
 }
 
+function normalizeKey(value) {
+  return String(value ?? '').trim().toUpperCase().replace(/\\s+/g, '');
+}
+
+function rowsFromJson(data) {
+  // Supports either a CSV-to-JSON style array-of-arrays (headers in row 1)
+  // or an array of objects.
+  if (!Array.isArray(data) || data.length === 0) return [];
+  if (Array.isArray(data[0])) {
+    const headers = data[0].map(v => String(v ?? '').trim());
+    return data.slice(1).map(row =>
+      Object.fromEntries(headers.map((key, i) => [key, row[i]]))
+    );
+  }
+  return data.filter(row => row && typeof row === 'object' && !Array.isArray(row));
+}
+
 async function init() {
   try {
     $('status').textContent = 'Downloading map data…';
@@ -749,17 +768,53 @@ async function init() {
       return response.json();
     };
 
-    const [c, g] = await Promise.all([
+    // Sales structure is optional at runtime, but when present it is the
+    // source of truth for Employee_ID, Sales_Name, supervisor and hierarchy.
+    const [c, g, structureResult] = await Promise.all([
       fetchJson('./data/customers.json'),
-      fetchJson('./data/territories.geojson')
+      fetchJson('./data/territories.geojson'),
+      fetchJson('./data/sales_structure.json').then(data => ({ ok: true, data }))
+        .catch(() => ({ ok: false, data: null }))
     ]);
 
     $('status').textContent = 'Preparing customer filters…';
 
-    const cols = c[0];
-    customers = c.slice(1).map(row =>
-      Object.fromEntries(cols.map((key, i) => [key, row[i]]))
-    );
+    const customerRows = rowsFromJson(c);
+    const structureRows = structureResult.ok ? rowsFromJson(structureResult.data) : [];
+
+    // Index structure rows by TerrID and by the more specific TerrID + Sales_ID
+    // combination when that identifier exists in both files.
+    const structureByTerritory = new Map();
+    const structureByTerritoryAndSales = new Map();
+    const structureHeaders = new Set();
+    for (const row of structureRows) {
+      Object.keys(row).forEach(key => structureHeaders.add(key));
+      const tid = normalizeKey(row.TerrID);
+      const sid = normalizeKey(row.Sales_ID);
+      if (tid && !structureByTerritory.has(tid)) structureByTerritory.set(tid, row);
+      if (tid && sid) structureByTerritoryAndSales.set(tid + '|' + sid, row);
+    }
+
+    customers = customerRows.map(customer => {
+      const tid = normalizeKey(customer.TerrID);
+      const sid = normalizeKey(customer.Sales_ID);
+      const structure = (tid && sid && structureByTerritoryAndSales.get(tid + '|' + sid))
+        || (tid && structureByTerritory.get(tid))
+        || null;
+
+      // Keep customer identity/location fields intact; add/overwrite the
+      // sales-structure fields from the matching structure record.
+      return structure ? { ...structure, ...customer, ...Object.fromEntries(
+        [...structureHeaders].filter(key => key in structure).map(key => [key, structure[key]])
+      ), ...Object.fromEntries(
+        ['Name','Code','SAP_Customer_Num','SAP_Code','SAPCode','lat','lon','Latitude','Longitude','TerrID']
+          .filter(key => customer[key] !== undefined).map(key => [key, customer[key]])
+      )} : customer;
+    });
+
+    if (!structureRows.length) {
+      console.warn('data/sales_structure.json was not loaded. Employee_ID will only show if it already exists in customers.json.');
+    }
     territories = g.features;
 
     const territoryColor = f => {
@@ -809,7 +864,7 @@ async function init() {
     fill('region', customers.map(region));
     fill('branch', customers.map(branch));
     fill('terr', customers.map(c => String(c.TerrID || '')));
-    fill('rep', customers.map(c => c.Sales_Name));
+    fill('rep', customers.map(repName));
     fill('supervisor', customers.map(supervisor));
     fill('tele', customers.map(c => String(c.TeleList || '')));
     fill('route', customers.map(c => c.RouteTypeName));

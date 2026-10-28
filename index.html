@@ -98,10 +98,18 @@ th { color:var(--muted);position:sticky;top:0;background:var(--panel) }
   <div class="field"><label>Region</label><select id="region"><option value="">All regions</option></select></div>
   <div class="field"><label>Branch</label><select id="branch"><option value="">All branches</option></select></div>
   <div class="field"><label>Territory ID</label><select id="terr"><option value="">All territories</option></select></div>
-  <div class="field"><label>Sales representative</label><select id="rep"><option value="">All reps</option></select></div>
+  <div class="field"><label>Sales representative (map filter)</label><select id="rep"><option value="">All reps</option></select></div>
+  <div class="field"><label>Supervisor (map filter)</label><select id="supervisor"><option value="">All supervisors</option></select></div>
   <div class="field"><label>TeleList</label><select id="tele"><option value="">All lists</option></select></div>
   <div class="field"><label>Route type</label><select id="route"><option value="">All types</option></select></div>
   <div class="field"><label>Sector</label><select id="sector"><option value="">All sectors</option></select></div>
+  <div class="panel" style="margin:14px 0">
+    <b>Sales structure fields on hover</b>
+    <p class="muted" style="font-size:11px;margin:6px 0 10px">Field names are taken from the sales-structure column names. Select exactly what you want to see when hovering over a customer point.</p>
+    <div id="structureFieldToggles"><span class="muted" style="font-size:11px">Detecting available structure fields…</span></div>
+    <button id="selectAllStructureFields" type="button" style="margin-top:8px">Select all available fields</button>
+    <button id="clearStructureFields" type="button" style="margin-top:6px">Clear selection</button>
+  </div>
   <div class="field">
     <label>Audit status</label>
     <select id="audit">
@@ -261,6 +269,81 @@ function fill(id, vals) {
 
 function region(c) { return c.StructureRegion || c.CustomerRegion || ''; }
 function branch(c) { return c.StructureBranch || c.CustomerBranch || ''; }
+function supervisor(c) { return c.SV || c.Supervisor_Name || c.SupervisorName || c.Supervisor || c.Sales_Supervisor || ''; }
+
+// Sales structure headers use the exact names from Structure2026.xlsx.
+// Aliases allow this dashboard's current customer export to supply matching values.
+const structureFieldDefinitions = [
+  ['Region', c => c.Region ?? c.StructureRegion ?? c.CustomerRegion],
+  ['BranchCode', c => c.BranchCode],
+  ['BranchName', c => c.BranchName ?? c.StructureBranch ?? c.CustomerBranch],
+  ['Unit', c => c.Unit],
+  ['TerrID', c => c.TerrID],
+  ['Terr_Name', c => c.Terr_Name],
+  ['Sales_ID', c => c.Sales_ID],
+  ['Employee_ID', c => c.Employee_ID],
+  ['Sales_Name', c => c.Sales_Name],
+  ['SV_ID', c => c.SV_ID],
+  ['SAP EmployeeSV_ID', c => c['SAP EmployeeSV_ID']],
+  ['EmployeeSV_ID', c => c.EmployeeSV_ID],
+  ['SV_Name', c => c.SV_Name ?? c.SV ?? c.Supervisor_Name ?? c.SupervisorName ?? c.Supervisor ?? c.Sales_Supervisor],
+  ['Branchmanger_ID', c => c.Branchmanger_ID],
+  ['Branchmanger', c => c.Branchmanger],
+  ['RegionManger_ID', c => c.RegionManger_ID],
+  ['RegionManger', c => c.RegionManger],
+  ['Vendor RegionManger_ID', c => c['Vendor RegionManger_ID']],
+  ['Vendor RegionManger', c => c['Vendor RegionManger']],
+  ['Sector Manger_ID', c => c['Sector Manger_ID']],
+  ['Sector Manger', c => c['Sector Manger']],
+  ['RouteTypeName', c => c.RouteTypeName],
+  ['SalesRep_Type', c => c.SalesRep_Type],
+  ['SectorCode', c => c.SectorCode],
+  ['SectorName', c => c.SectorName],
+  ['Sales Sector', c => c['Sales Sector']],
+  ['Sector', c => c.Sector ?? c.TerrSectorName],
+  ['Strucure', c => c.Strucure],
+  ['Date', c => c.Date],
+  ['Notes', c => c.Notes]
+];
+
+const structureFields = [];
+function fieldValue(c, key) {
+  const def = structureFieldDefinitions.find(item => item[0] === key);
+  const value = def ? def[1](c) : c[key];
+  return value == null ? '' : String(value).trim();
+}
+function initializeStructureFieldToggles() {
+  const host = $('structureFieldToggles');
+  structureFields.length = 0;
+  for (const [key] of structureFieldDefinitions) {
+    if (customers.some(c => fieldValue(c, key) !== '')) structureFields.push(key);
+  }
+  // Also expose any future structure columns included in the customer data export.
+  const known = new Set(structureFieldDefinitions.map(x => x[0]));
+  const extra = [...new Set(customers.flatMap(c => Object.keys(c)))].filter(k => !known.has(k) && customers.some(c => String(c[k] ?? '').trim() !== ''));
+  for (const key of extra) structureFields.push(key);
+  if (!structureFields.length) {
+    host.innerHTML = '<span class="muted" style="font-size:11px">No sales-structure columns were found in the current customer dataset. Add the structure fields to the customer export or connect the private structure source.</span>';
+    return;
+  }
+  host.innerHTML = structureFields.map((key, i) =>
+    `<div class="field"><label><input class="detail-toggle" type="checkbox" value="${safe(key)}" ${['Sales_Name','SV_Name','Region','BranchName'].includes(key) ? 'checked' : ''} style="width:auto;margin-right:6px">${safe(key)}</label></div>`
+  ).join('');
+  host.querySelectorAll('.detail-toggle').forEach(el => el.addEventListener('change', refreshHoverTooltip));
+}
+function selectedDetailFields() {
+  return [...document.querySelectorAll('.detail-toggle:checked')].map(el => el.value);
+}
+function refreshHoverTooltip() {
+  if (map.hasLayer(customerHoverTooltip)) map.removeLayer(customerHoverTooltip);
+}
+function hoverDetails(c) {
+  const rows = selectedDetailFields().map(key => {
+    const value = fieldValue(c, key);
+    return value ? `<div><span style="color:#9fb2c9">${safe(key)}:</span> ${safe(value)}</div>` : '';
+  }).filter(Boolean);
+  return `<b>${safe(c.Name || 'Customer')}</b>${rows.length ? '<hr style="border:0;border-top:1px solid #34445b;margin:5px 0">' + rows.join('') : '<div style="color:#9fb2c9">No structure fields selected</div>'}`;
+}
 
 function issues(c) {
   const a = [];
@@ -297,6 +380,7 @@ function filtered() {
   const b = $('branch').value;
   const t = $('terr').value;
   const rep = $('rep').value;
+  const sup = $('supervisor').value;
   const tl = $('tele').value;
   const rt = $('route').value;
   const sec = $('sector').value;
@@ -309,6 +393,7 @@ function filtered() {
     (!b || branch(c) === b) &&
     (!t || String(c.TerrID) === t) &&
     (!rep || c.Sales_Name === rep) &&
+    (!sup || supervisor(c) === sup) &&
     (!tl || String(c.TeleList) === tl) &&
     (!rt || c.RouteTypeName === rt) &&
     (!sec || c.TerrSectorName === sec) &&
@@ -542,12 +627,7 @@ map.on('mousemove', e => {
       const c = cl.first;
       customerHoverTooltip
         .setLatLng(e.latlng)
-        .setContent(
-          `<b>${safe(c.Name || 'Customer')}</b><br>` +
-          `Code: ${safe(c.Code)}<br>` +
-          `SAP: ${safe(c.SAP_Customer_Num)}<br>` +
-          `Rep: ${safe(c.Sales_Name || 'Not assigned')}`
-        );
+        .setContent(hoverDetails(c));
     } else {
       customerHoverTooltip
         .setLatLng(e.latlng)
@@ -556,15 +636,8 @@ map.on('mousemove', e => {
   } else if (item.c) {
     const c = item.c;
     customerHoverTooltip
-      .setLatLng(e.latlng)
-      .setContent(
-        `<b>${safe(c.Name || 'Customer')}</b><br>` +
-        `Code: ${safe(c.Code)}<br>` +
-        `SAP: ${safe(c.SAP_Customer_Num)}<br>` +
-        `Rep: ${safe(c.Sales_Name || 'Not assigned')}<br>` +
-        `Rep ID: ${safe(c.Sales_ID || 'N/A')}<br>` +
-        `<span>Click for full details</span>`
-      );
+        .setLatLng(e.latlng)
+        .setContent(hoverDetails(c));
   } else {
     if (map.hasLayer(customerHoverTooltip)) {
       map.removeLayer(customerHoverTooltip);
@@ -717,21 +790,32 @@ async function init() {
     fill('branch', customers.map(branch));
     fill('terr', customers.map(c => String(c.TerrID || '')));
     fill('rep', customers.map(c => c.Sales_Name));
+    fill('supervisor', customers.map(supervisor));
     fill('tele', customers.map(c => String(c.TeleList || '')));
     fill('route', customers.map(c => c.RouteTypeName));
     fill('sector', customers.map(c => c.TerrSectorName));
+
+    initializeStructureFieldToggles();
+    $('selectAllStructureFields').addEventListener('click', () => {
+      document.querySelectorAll('.detail-toggle').forEach(el => el.checked = true);
+      refreshHoverTooltip();
+    });
+    $('clearStructureFields').addEventListener('click', () => {
+      document.querySelectorAll('.detail-toggle').forEach(el => el.checked = false);
+      refreshHoverTooltip();
+    });
 
     $('q').addEventListener('input', () => {
       clearTimeout(searchTimer);
       searchTimer = setTimeout(render, 180);
     });
 
-    ['region','branch','terr','rep','tele','route','sector','audit'].forEach(id =>
+    ['region','branch','terr','rep','supervisor','tele','route','sector','audit'].forEach(id =>
       $(id).addEventListener('change', render)
     );
 
     $('reset').onclick = () => {
-      ['q','region','branch','terr','rep','tele','route','sector','audit'].forEach(id => $(id).value = '');
+      ['q','region','branch','terr','rep','supervisor','tele','route','sector','audit'].forEach(id => $(id).value = '');
       render();
     };
 

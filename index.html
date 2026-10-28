@@ -307,6 +307,8 @@ const structureFieldDefinitions = [
 ];
 
 const structureFields = [];
+// Preserve the order in which the user selects hover fields.
+let selectedFieldOrder = [];
 function fieldValue(c, key) {
   const def = structureFieldDefinitions.find(item => item[0] === key);
   const value = def ? def[1](c) : c[key];
@@ -316,7 +318,9 @@ function initializeStructureFieldToggles() {
   const host = $('structureFieldToggles');
   structureFields.length = 0;
   for (const [key] of structureFieldDefinitions) {
-    if (customers.some(c => fieldValue(c, key) !== '')) structureFields.push(key);
+    // Employee_ID is important even if the current customer export has not
+    // been joined to the sales-structure source yet, so always offer it.
+    if (key === 'Employee_ID' || customers.some(c => fieldValue(c, key) !== '')) structureFields.push(key);
   }
   // Also expose any future structure columns included in the customer data export.
   const known = new Set(structureFieldDefinitions.map(x => x[0]));
@@ -326,23 +330,39 @@ function initializeStructureFieldToggles() {
     host.innerHTML = '<span class="muted" style="font-size:11px">No sales-structure columns were found in the current customer dataset. Add the structure fields to the customer export or connect the private structure source.</span>';
     return;
   }
-  host.innerHTML = structureFields.map((key, i) =>
-    `<div class="field"><label><input class="detail-toggle" type="checkbox" value="${safe(key)}" ${['Sales_Name','SV_Name','Region','BranchName'].includes(key) ? 'checked' : ''} style="width:auto;margin-right:6px">${safe(key)}</label></div>`
+  const defaultSelected = ['Sales_Name','SV_Name','Region','BranchName'];
+  selectedFieldOrder = defaultSelected.filter(key => structureFields.includes(key));
+  host.innerHTML = structureFields.map(key =>
+    `<div class="field"><label><input class="detail-toggle" type="checkbox" value="${safe(key)}" ${selectedFieldOrder.includes(key) ? 'checked' : ''} style="width:auto;margin-right:6px">${safe(key)}</label></div>`
   ).join('');
-  host.querySelectorAll('.detail-toggle').forEach(el => el.addEventListener('change', refreshHoverTooltip));
+  host.querySelectorAll('.detail-toggle').forEach(el => el.addEventListener('change', event => {
+    const key = event.currentTarget.value;
+    if (event.currentTarget.checked) {
+      if (!selectedFieldOrder.includes(key)) selectedFieldOrder.push(key);
+    } else {
+      selectedFieldOrder = selectedFieldOrder.filter(item => item !== key);
+    }
+    refreshHoverTooltip();
+  }));
 }
 function selectedDetailFields() {
-  return [...document.querySelectorAll('.detail-toggle:checked')].map(el => el.value);
+  // Return selected fields in the exact order they were clicked.
+  return selectedFieldOrder.filter(key => {
+    const el = document.querySelector(`.detail-toggle[value="${CSS.escape(key)}"]`);
+    return el && el.checked;
+  });
 }
 function refreshHoverTooltip() {
   if (map.hasLayer(customerHoverTooltip)) map.removeLayer(customerHoverTooltip);
 }
 function hoverDetails(c) {
+  const sapCode = c.SAP_Customer_Num ?? c.SAP_Code ?? c.SAPCode ?? '';
   const rows = selectedDetailFields().map(key => {
     const value = fieldValue(c, key);
     return value ? `<div><span style="color:#9fb2c9">${safe(key)}:</span> ${safe(value)}</div>` : '';
   }).filter(Boolean);
-  return `<b>${safe(c.Name || 'Customer')}</b>${rows.length ? '<hr style="border:0;border-top:1px solid #34445b;margin:5px 0">' + rows.join('') : '<div style="color:#9fb2c9">No structure fields selected</div>'}`;
+  const sapRow = `<div><span style="color:#9fb2c9">SAP Code:</span> ${safe(sapCode || 'N/A')}</div>`;
+  return `<b>${safe(c.Name || 'Customer')}</b>${sapRow}${rows.length ? '<hr style="border:0;border-top:1px solid #34445b;margin:5px 0">' + rows.join('') : '<div style="color:#9fb2c9">No structure fields selected</div>'}`;
 }
 
 function issues(c) {
@@ -798,10 +818,12 @@ async function init() {
     initializeStructureFieldToggles();
     $('selectAllStructureFields').addEventListener('click', () => {
       document.querySelectorAll('.detail-toggle').forEach(el => el.checked = true);
+      selectedFieldOrder = [...document.querySelectorAll('.detail-toggle')].map(el => el.value);
       refreshHoverTooltip();
     });
     $('clearStructureFields').addEventListener('click', () => {
       document.querySelectorAll('.detail-toggle').forEach(el => el.checked = false);
+      selectedFieldOrder = [];
       refreshHoverTooltip();
     });
 

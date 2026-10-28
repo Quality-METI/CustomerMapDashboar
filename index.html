@@ -745,6 +745,90 @@ function normalizeKey(value) {
   return String(value ?? '').trim().toUpperCase().replace(/\\s+/g, '');
 }
 
+// Geographic helpers for territory click statistics. GeoJSON coordinates are [lon, lat].
+function validCustomerCoords(c) {
+  const lat = Number(c.lat ?? c.Latitude ?? c.latitude);
+  const lon = Number(c.lon ?? c.lng ?? c.Longitude ?? c.longitude);
+  return Number.isFinite(lat) && Number.isFinite(lon) && lat >= -90 && lat <= 90 && lon >= -180 && lon <= 180
+    ? [lon, lat] : null;
+}
+
+function pointInRing(point, ring) {
+  const x = point[0], y = point[1];
+  let inside = false;
+  for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+    const xi = ring[i][0], yi = ring[i][1];
+    const xj = ring[j][0], yj = ring[j][1];
+    const intersects = ((yi > y) !== (yj > y)) &&
+      (x < (xj - xi) * (y - yi) / ((yj - yi) || Number.EPSILON) + xi);
+    if (intersects) inside = !inside;
+  }
+  return inside;
+}
+
+function pointInPolygon(point, polygonCoords) {
+  if (!polygonCoords.length || !pointInRing(point, polygonCoords[0])) return false;
+  for (let i = 1; i < polygonCoords.length; i++) {
+    if (pointInRing(point, polygonCoords[i])) return false;
+  }
+  return true;
+}
+
+function pointInGeometry(point, geometry) {
+  if (!geometry) return false;
+  if (geometry.type === 'Polygon') return pointInPolygon(point, geometry.coordinates);
+  if (geometry.type === 'MultiPolygon') return geometry.coordinates.some(poly => pointInPolygon(point, poly));
+  return false;
+}
+
+function ringAreaSqMeters(ring) {
+  const earthRadius = 6371008.8;
+  if (!Array.isArray(ring) || ring.length < 4) return 0;
+  let sum = 0;
+  const rad = Math.PI / 180;
+  for (let i = 0; i < ring.length - 1; i++) {
+    const [lon1, lat1] = ring[i];
+    const [lon2, lat2] = ring[i + 1];
+    sum += (lon2 - lon1) * rad * (2 + Math.sin(lat1 * rad) + Math.sin(lat2 * rad));
+  }
+  return Math.abs(sum * earthRadius * earthRadius / 2);
+}
+
+function polygonAreaSqMeters(polygonCoords) {
+  if (!polygonCoords.length) return 0;
+  let area = ringAreaSqMeters(polygonCoords[0]);
+  for (let i = 1; i < polygonCoords.length; i++) area -= ringAreaSqMeters(polygonCoords[i]);
+  return Math.max(0, area);
+}
+
+function geometryAreaSqMeters(geometry) {
+  if (!geometry) return 0;
+  if (geometry.type === 'Polygon') return polygonAreaSqMeters(geometry.coordinates);
+  if (geometry.type === 'MultiPolygon') return geometry.coordinates.reduce((sum, poly) => sum + polygonAreaSqMeters(poly), 0);
+  return 0;
+}
+
+function territoryStats(feature) {
+  const areaKm2 = geometryAreaSqMeters(feature.geometry) / 1000000;
+  let customerCount = 0;
+  for (const customer of customers) {
+    const point = validCustomerCoords(customer);
+    if (point && pointInGeometry(point, feature.geometry)) customerCount++;
+  }
+  return { areaKm2, customerCount };
+}
+
+function territoryPopup(feature) {
+  const stats = territoryStats(feature);
+  return `<div class="territory-popup"><b>${safe(feature.properties.TerrName || 'Territory')}</b><hr style="border:0;border-top:1px solid #26354b;margin:7px 0">
+    <b>TerrID:</b> ${safe(feature.properties.TerrID)}<br>
+    <b>Region:</b> ${safe(feature.properties.Region)}<br>
+    <b>Branch:</b> ${safe(feature.properties.Branch)}<br>
+    <b>Area:</b> ${stats.areaKm2.toLocaleString(undefined, { maximumFractionDigits: 2 })} km²<br>
+    <b>Customers inside:</b> ${stats.customerCount.toLocaleString()}<br>
+    <small>Customer count is calculated from customer coordinates inside this territory boundary.</small></div>`;
+}
+
 function rowsFromJson(data) {
   // Supports either a CSV-to-JSON style array-of-arrays (headers in row 1)
   // or an array of objects.
@@ -841,13 +925,12 @@ async function init() {
     shapeLayer = L.geoJSON(g, {
       renderer: canvasRenderer,
       style: borderStyle,
-      onEachFeature: (f, l) => l.bindPopup(
-        `<b>${safe(f.properties.TerrName)}</b><br>
-         TerrID: ${safe(f.properties.TerrID)}<br>
-         Region: ${safe(f.properties.Region)}<br>
-         Branch: ${safe(f.properties.Branch)}<br>
-         Structure match: ${f.properties.StructureMatch ? 'Yes' : 'No'}`
-      )
+      onEachFeature: (f, l) => {
+        l.bindPopup(() => territoryPopup(f), { maxWidth: 300 });
+        l.on('click', () => {
+          if (map.hasLayer(customerHoverTooltip)) map.removeLayer(customerHoverTooltip);
+        });
+      }
     }).addTo(map);
 
     const key = L.control({ position: 'bottomleft' });
